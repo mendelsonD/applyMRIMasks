@@ -1,6 +1,7 @@
 # applyMRIMasks<br>
 21 Aug 2024 <br>
 version 1.1 <br>
+Created for use by research students and staff working with PET and MRI images. <br>
 Daniel Mendelson, working at Dr. Pedro Rosa-Neto's laboratory, McGill University, Montreal, Canada <br>
 Prepared on computer running Ubuntu 20.04.6 LTS <br>
 This software is shared according to the GNU General Public License v3.0 <br>
