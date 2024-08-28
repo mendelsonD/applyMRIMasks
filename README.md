@@ -1,11 +1,10 @@
-###### applyMRIMasks ######
-# version 1.1
-# 21 Aug 2024
-# Daniel Mendelson, working at Dr. Pedro Rosa-Neto's laboratory, McGill University, Montreal, Canada
-# Prepared on computer running Ubuntu 20.04.6 LTS
-# This software is shared according to the GNU General Public License v3.0
-# This program is under no warranty.
-##########################
+# applyMRIMasks
+ version 1.1
+ 21 Aug 2024
+ Daniel Mendelson, working at Dr. Pedro Rosa-Neto's laboratory, McGill University, Montreal, Canada
+ Prepared on computer running Ubuntu 20.04.6 LTS
+ This software is shared according to the GNU General Public License v3.0
+ This program is under no warranty.
 
 ~~ Overview ~~
 * This software aims to apply MRI-based masks to PET images to extract SUV data and save results into a csv file.
